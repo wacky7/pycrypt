@@ -9,7 +9,7 @@ Dec | Enc | Files | Keys
 ###############
 
 install pywhatkit:
-pip install pywhatkit
+pip install pywhatkit |
 https://pypi.org/project/pywhatkit/
 
 ###############
